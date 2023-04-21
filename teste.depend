@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681665444 source:c:\users\fonte\desktop\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1681858649 source:c:\users\fonte\desktop\sistema\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
